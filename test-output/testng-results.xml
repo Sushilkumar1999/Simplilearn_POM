@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5731" started-at="2021-02-24T05:25:35 UTC" finished-at="2021-02-24T05:25:41 UTC">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5731" started-at="2021-02-24T05:25:35 UTC" finished-at="2021-02-24T05:25:41 UTC">
+      <class name="test.testcase1">
+        <test-method status="PASS" signature="lunchBrowser()[pri:0, instance:test.testcase1@7494e528]" name="lunchBrowser" is-config="true" duration-ms="1932" started-at="2021-02-24T05:25:36 UTC" finished-at="2021-02-24T05:25:37 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchBrowser -->
+        <test-method status="PASS" signature="Logintest()[pri:0, instance:test.testcase1@7494e528]" name="Logintest" duration-ms="3763" started-at="2021-02-24T05:25:37 UTC" finished-at="2021-02-24T05:25:41 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:test.testcase1@7494e528]" name="CloseBrowser" is-config="true" duration-ms="0" started-at="2021-02-24T05:25:41 UTC" finished-at="2021-02-24T05:25:41 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- test.testcase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
